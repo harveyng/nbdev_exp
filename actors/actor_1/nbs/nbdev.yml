@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "actor_1"
+  site-url: "https://harveyng.github.io/nbdev_exp"
+  description: "demo nbdev 1"
+  repo-branch: main
+  repo-url: "https://github.com/harveyng/nbdev_exp"
